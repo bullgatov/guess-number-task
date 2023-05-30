@@ -31,7 +31,7 @@
 
 
 ### Краткая информация о данных
-
+https://drive.google.com/file/d/1AGNuInHGoCNI5f2MsEdASxsyafCvD_DU/view?usp=share_link
   
 :arrow_up:[к оглавлению](README.md#Оглавление)
 
